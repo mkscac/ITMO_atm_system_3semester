@@ -1,0 +1,15 @@
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/bin/Debug/net8.0/Laba5.BusinessLogic
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/bin/Debug/net8.0/Laba5.BusinessLogic.deps.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/bin/Debug/net8.0/Laba5.BusinessLogic.runtimeconfig.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/bin/Debug/net8.0/Laba5.BusinessLogic.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/bin/Debug/net8.0/Laba5.BusinessLogic.pdb
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.AssemblyInfo.cs
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.sourcelink.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/refint/Laba5.BusinessLogic.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.pdb
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/Laba5.BusinessLogic.genruntimeconfig.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.BusinessLogic/obj/Debug/net8.0/ref/Laba5.BusinessLogic.dll

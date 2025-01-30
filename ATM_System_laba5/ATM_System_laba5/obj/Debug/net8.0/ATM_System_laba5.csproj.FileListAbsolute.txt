@@ -1,0 +1,15 @@
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/bin/Debug/net8.0/ATM_System_laba5
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/bin/Debug/net8.0/ATM_System_laba5.deps.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/bin/Debug/net8.0/ATM_System_laba5.runtimeconfig.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/bin/Debug/net8.0/ATM_System_laba5.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/bin/Debug/net8.0/ATM_System_laba5.pdb
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.AssemblyInfo.cs
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.sourcelink.json
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/refint/ATM_System_laba5.dll
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.pdb
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ATM_System_laba5.genruntimeconfig.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/ATM_System_laba5/obj/Debug/net8.0/ref/ATM_System_laba5.dll

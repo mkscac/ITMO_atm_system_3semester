@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_System_laba5", "ATM_System_laba5\ATM_System_laba5.csproj", "{70F33703-1726-456D-BA68-92396C2CECD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Port", "Port", "{1BE3E11E-0469-4816-B1BF-507DFAB3AD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba5.Port", "Laba5.Port\Laba5.Port.csproj", "{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{F7B5B7C3-D423-4CE8-80A5-DE8DB69AF450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba5.BusinessLogic", "Laba5.BusinessLogic\Laba5.BusinessLogic.csproj", "{249A63E7-D9C2-4923-A647-4C134D74D86A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{5EE0B412-A73D-492A-8E58-ADF449F21C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba5.Adapter", "Laba5.Adapter\Laba5.Adapter.csproj", "{7F69C381-8F24-4BFC-8E6F-C594B893B342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F33703-1726-456D-BA68-92396C2CECD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F33703-1726-456D-BA68-92396C2CECD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F33703-1726-456D-BA68-92396C2CECD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F33703-1726-456D-BA68-92396C2CECD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249A63E7-D9C2-4923-A647-4C134D74D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249A63E7-D9C2-4923-A647-4C134D74D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249A63E7-D9C2-4923-A647-4C134D74D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249A63E7-D9C2-4923-A647-4C134D74D86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F69C381-8F24-4BFC-8E6F-C594B893B342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F69C381-8F24-4BFC-8E6F-C594B893B342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F69C381-8F24-4BFC-8E6F-C594B893B342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F69C381-8F24-4BFC-8E6F-C594B893B342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC6ABD0A-24DE-4ADE-980D-FE5DEF68AA3A} = {1BE3E11E-0469-4816-B1BF-507DFAB3AD64}
+		{249A63E7-D9C2-4923-A647-4C134D74D86A} = {F7B5B7C3-D423-4CE8-80A5-DE8DB69AF450}
+		{7F69C381-8F24-4BFC-8E6F-C594B893B342} = {5EE0B412-A73D-492A-8E58-ADF449F21C04}
+	EndGlobalSection
+EndGlobal

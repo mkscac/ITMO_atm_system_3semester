@@ -1,0 +1,5 @@
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.Port/obj/Debug/net8.0/Laba5.Port.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.Port/obj/Debug/net8.0/Laba5.Port.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.Port/obj/Debug/net8.0/Laba5.Port.AssemblyInfo.cs
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.Port/obj/Debug/net8.0/Laba5.Port.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ITMO_atm_system_3semester/ATM_System_laba5/Laba5.Port/obj/Debug/net8.0/Laba5.Port.sourcelink.json
